@@ -1,0 +1,106 @@
+#services{
+
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.main{
+
+color: blueviolet;
+
+
+}
+
+
+#vip{
+
+    background-color: burlywood;
+    margin: 100px;
+    padding: 100px;
+    border-radius: 10px;
+}
+
+#vip button{
+
+    background-color: rgba(189, 211, 193, 0.288);
+}
+
+#vip :hover{
+    background-color: rgb(196, 210, 255);
+}
+
+h1:hover{
+
+    background-color: aquamarine;
+    color: rgb(184, 23, 23);
+
+}
+
+#about{
+
+
+    color: rgb(187, 65, 21);
+
+font-weight: bolder;
+}
+
+#info{
+
+
+    font-style: italic;
+
+    font-weight: 900;
+}
+
+#VVIP{
+
+
+background-color: rgb(157, 7, 216);
+margin: 50px;
+padding: 50px;
+border-width: 100px;
+
+}
+
+#serv{
+
+
+display: flex;
+
+}
+
+.sub{
+
+text-align: center;
+background-color: cyan;
+
+margin-right: 30px;
+padding: 30px;
+
+border-radius: 50px;
+
+box-shadow: 0 0 10px rgb(114, 5, 60);
+
+
+
+}
+
+#serv :hover
+{
+
+    background-color: chartreuse;
+
+
+}
+
+.sub button{
+
+
+background-color: deeppink;
+
+}
+
+
+
+
+

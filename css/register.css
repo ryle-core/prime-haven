@@ -1,0 +1,53 @@
+form{
+
+background-color: cornsilk;
+
+width: 60%;
+
+
+
+margin: 0 auto;
+padding: 30px;
+border-radius: 30px;
+
+box-shadow: 0 0 12px rgb(78, 49, 146);
+}
+
+
+legend{
+
+font-size: 30px;
+font-weight: bolder;
+text-align: center;
+}
+input[type=text],input[type=email],input[type=password],input[type=number],input[type=date],input[type=datetime-local ],select{
+
+width: 100%;
+
+height: 50px;
+ 
+border-radius: 30px;
+
+border: none;
+padding-left: 10px;
+color: rgb(31, 4, 155);
+font-weight: bolder;
+font-style: italic;
+}
+button{
+
+    background-color: rgb(219, 8, 174);
+}
+
+textarea{
+
+background-color: rgba(20, 220, 187, 0.541);
+
+}
+
+body{
+
+background-image: url("../assets/background.png");
+background-repeat: no-repeat;
+background-size: cover;
+}
